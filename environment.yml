@@ -7,3 +7,5 @@ dependencies:
   - pyvista
   - ipykernel
   - matplotlib
+  - dolfinx_external_operator
+  - scipy
